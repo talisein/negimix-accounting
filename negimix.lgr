@@ -14,58 +14,58 @@ commodity ¥
     nomarket
 
 2020/04/23 Initial Commitments
-    Pledge:Pengy  ¥30000
-    Pledge:MMD    ¥30000
-    Pledge:Oyasugumi  ¥15000
-    Pledge:Dyn  ¥10000
-    Pledge:Negimeister   ¥10000
-    Pledge:Emcom  ¥10000
-    Pledge:Sevarti  ¥5000
-    Pledge:AdvanceRatio  ¥5000
-    Pledge:ephemient  ¥25000
-    Pledge:Merril  ¥10000
-    Pledge:Fjdjjero  ¥10000
-    Pledge:chi  ¥5000
-    Pledge:silentbot  ¥10000
-    Pledge:railgun  ¥10000
-    Pledge:holeymeister  ¥10000
-    Pledge:scum  ¥10000
-    Pledge:FlameHaze  ¥10000
-    Pledge:nQ。  ¥5000
+    Pledge:Pengy                                                                    ¥30000
+    Pledge:MMD                                                                      ¥30000
+    Pledge:Oyasugumi                                                                ¥15000
+    Pledge:Dyn                                                                      ¥10000
+    Pledge:Negimeister                                                              ¥10000
+    Pledge:Emcom                                                                    ¥10000
+    Pledge:Sevarti                                                                   ¥5000
+    Pledge:AdvanceRatio                                                              ¥5000
+    Pledge:ephemient                                                                ¥25000
+    Pledge:Merril                                                                   ¥10000
+    Pledge:Fjdjjero                                                                 ¥10000
+    Pledge:chi                                                                       ¥5000
+    Pledge:silentbot                                                                ¥10000
+    Pledge:railgun                                                                  ¥10000
+    Pledge:holeymeister                                                             ¥10000
+    Pledge:scum                                                                     ¥10000
+    Pledge:FlameHaze                                                                ¥10000
+    Pledge:nQ。                                                                      ¥5000
     Liabilities:Negimix Pledges
 
 2020/04/23 Nagomix Campfire
-    Expenses:Nagomix Campfire  ¥100,000
-    Expenses:Nagomix Campfire:S&H  ¥220
-    Equity:MMD  -$970.20
+    Expenses:Nagomix Campfire                                                     ¥100,000
+    Expenses:Nagomix Campfire:S&H                                                     ¥220
+    Equity:MMD                                                                    -$970.20
 
 2020/04/23 Paypal Pool
-    Equity:MMD  -$300
-    Equity:ephemient  -$250
-    Equity:Fjdjjero  -$100
-    Equity:Pengy  -$300
-    Equity:Merril  -$100
-    Equity:chi  -$50
+    Equity:MMD                                                                       -$300
+    Equity:ephemient                                                                 -$250
+    Equity:Fjdjjero                                                                  -$100
+    Equity:Pengy                                                                     -$300
+    Equity:Merril                                                                    -$100
+    Equity:chi                                                                        -$50
     Assets:Paypal Pool
 
 2020/04/30 Oyasugumi to pool
-    Assets:Paypal Pool  $50
-    Equity:Oyasugumi  $-50 ;via ephemient
+    Assets:Paypal Pool                                                                 $50
+    Equity:Oyasugumi                                                                  $-50 ;via ephemient, fixme
 
 2020/04/30 Pool to MMD
-    Assets:Paypal Pool  $-970.05
+    Assets:Paypal Pool                                                            $-970.05
     Equity:MMD
 
 2020/04/30 Rosso commitments
-    Pledge:Oyasugumi  ¥5000
-    Pledge:ephemient  ¥15000
-    Pledge:Fjdjjero  ¥5000
-    Pledge:Negimeister  ¥5000
-    Pledge:AdvanceRatio  ¥5000
-    Pledge:FlameHaze  ¥5000
-    Pledge:nQ。  ¥5000
+    Pledge:Oyasugumi                                                                 ¥5000
+    Pledge:ephemient                                                                ¥15000
+    Pledge:Fjdjjero                                                                  ¥5000
+    Pledge:Negimeister                                                               ¥5000
+    Pledge:AdvanceRatio                                                              ¥5000
+    Pledge:FlameHaze                                                                 ¥5000
+    Pledge:nQ。                                                                      ¥5000
     Liabilities:Rosso Pledges
 
 2020/04/30 Rosso
-    Expenses:Rosso  ¥40,000
+    Expenses:Rosso                                                                 ¥40,000
     Equity:Negimeister
