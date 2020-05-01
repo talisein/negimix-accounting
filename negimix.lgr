@@ -14,58 +14,71 @@ commodity ¥
     nomarket
 
 2020/04/23 Initial Commitments
-    Pledge:Pengy                                                                    ¥30000
-    Pledge:MMD                                                                      ¥30000
-    Pledge:Oyasugumi                                                                ¥15000
-    Pledge:Dyn                                                                      ¥10000
-    Pledge:Negimeister                                                              ¥10000
-    Pledge:Emcom                                                                    ¥10000
-    Pledge:Sevarti                                                                   ¥5000
-    Pledge:AdvanceRatio                                                              ¥5000
-    Pledge:ephemient                                                                ¥25000
-    Pledge:Merril                                                                   ¥10000
-    Pledge:Fjdjjero                                                                 ¥10000
-    Pledge:chi                                                                       ¥5000
-    Pledge:silentbot                                                                ¥10000
-    Pledge:railgun                                                                  ¥10000
-    Pledge:holeymeister                                                             ¥10000
-    Pledge:scum                                                                     ¥10000
-    Pledge:FlameHaze                                                                ¥10000
-    Pledge:nQ。                                                                      ¥5000
-    Liabilities:Negimix Pledges
+    Pledge:Negimix:Pengy                                                            ¥30000
+    Pledge:Negimix:MMD                                                              ¥30000
+    Pledge:Negimix:Oyasugumi                                                        ¥15000
+    Pledge:Negimix:Dyn                                                              ¥10000
+    Pledge:Negimix:Negimeister                                                      ¥10000
+    Pledge:Negimix:Emcom                                                            ¥10000
+    Pledge:Negimix:Sevarti                                                           ¥5000
+    Pledge:Negimix:AdvanceRatio                                                      ¥5000
+    Pledge:Negimix:ephemient                                                        ¥25000
+    Pledge:Negimix:Merril                                                           ¥10000
+    Pledge:Negimix:Fjdjjero                                                         ¥10000
+    Pledge:Negimix:chi                                                               ¥5000
+    Pledge:Negimix:silentbot                                                        ¥10000
+    Pledge:Negimix:railgun                                                          ¥10000
+    Pledge:Negimix:holeymeister                                                     ¥10000
+    Pledge:Negimix:scum                                                             ¥10000
+    Pledge:Negimix:FlameHaze                                                        ¥10000
+    Pledge:Negimix:nQ。                                                              ¥5000
+    Budget:Negimix
 
 2020/04/23 Nagomix Campfire
-    Expenses:Nagomix Campfire                                                     ¥100,000
-    Expenses:Nagomix Campfire:S&H                                                     ¥220
-    Equity:MMD                                                                    -$970.20
+    Expenses:Negimix:Nagomix Campfire                                             ¥100,000
+    Expenses:Negimix:Nagomix Campfire:S&H                                             ¥220
+    Equity:MMD:Negimix                                                            -$970.20
 
 2020/04/23 Paypal Pool
-    Equity:MMD                                                                       -$300
-    Equity:ephemient                                                                 -$250
-    Equity:Fjdjjero                                                                  -$100
-    Equity:Pengy                                                                     -$300
-    Equity:Merril                                                                    -$100
-    Equity:chi                                                                        -$50
-    Assets:Paypal Pool
+    Equity:MMD:Negimix                                                               -$300
+    Equity:ephemient:Negimix                                                         -$250
+    Equity:Fjdjjero:Negimix                                                          -$100
+    Equity:Pengy:Negimix                                                             -$300
+    Equity:Merril:Negimix                                                            -$100
+    Equity:chi:Negimix                                                                -$50
+    Assets:Paypal Pool:Negimix
 
-2020/04/30 Oyasugumi to pool
-    Assets:Paypal Pool                                                                 $50
-    Equity:Oyasugumi                                                                  $-50 ;via ephemient, fixme
+2020/04/30 Oyasugumi / ephemient negirossomix
+    Assets:Paypal Pool:Negimix                                                         $50 ; ephemient to paypal
+    Equity:Oyasugumi:Negimix                                                          $-50
+    Equity:ephemient:Rosso                                                            $-50
+    Equity:Negimeister:Rosso                                                           $50 ; Oyasugumi to Negimeister via bank (Unconfirmed)
 
 2020/04/30 Pool to MMD
-    Assets:Paypal Pool                                                            $-970.05
-    Equity:MMD
+    Assets:Paypal Pool:Negimix                                                    $-970.05
+    Equity:MMD:Negimix
 
 2020/04/30 Rosso commitments
-    Pledge:Oyasugumi                                                                 ¥5000
-    Pledge:ephemient                                                                ¥15000
-    Pledge:Fjdjjero                                                                  ¥5000
-    Pledge:Negimeister                                                               ¥5000
-    Pledge:AdvanceRatio                                                              ¥5000
-    Pledge:FlameHaze                                                                 ¥5000
-    Pledge:nQ。                                                                      ¥5000
-    Liabilities:Rosso Pledges
+    Pledge:Rosso:Oyasugumi                                                           ¥5000
+    Pledge:Rosso:ephemient                                                          ¥15000
+    Pledge:Rosso:Fjdjjero                                                            ¥5000
+    Pledge:Rosso:Negimeister                                                         ¥5000
+    Pledge:Rosso:AdvanceRatio                                                        ¥5000
+    Pledge:Rosso:FlameHaze                                                           ¥5000
+    Pledge:Rosso:nQ。                                                                ¥5000
+    Budget:Rosso
 
 2020/04/30 Rosso
-    Expenses:Rosso                                                                 ¥40,000
-    Equity:Negimeister
+    Expenses:Rosso:Rosso Campfire                                                  ¥40,000
+    Equity:Negimeister:Rosso
+
+2020/04/30 Ephemient for Rosso
+    Equity:ephemient:Rosso                                                           $-100
+    Assets:Paypal Pool:Rosso
+
+2020/04/30 Advance Ratio
+    ; 50% AdvanceRatio, 50% Negimeister. 100% good ideas.
+    Equity:AdvancedRatio:Rosso                                                        $-50
+    Equity:AdvancedRatio:Negimix                                                      $-50
+    Assets:Paypal Pool:Negimix                                                         $50
+    Assets:Paypal Pool:Rosso                                                           $50
