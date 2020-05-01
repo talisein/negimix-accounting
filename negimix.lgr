@@ -76,10 +76,10 @@ commodity ¥
     Equity:ephemient:Rosso                                                           $-100
     Assets:Paypal Pool:Rosso
 
-2020/04/30 Advance Ratio
+2020/04/30 AdvanceRatio
     ; 50% AdvanceRatio, 50% Negimeister. 100% good ideas.
-    Equity:AdvancedRatio:Rosso                                                        $-50
+    Equity:AdvanceRatio:Rosso                                                         $-50
     Equity:Negimeister:Rosso                                                           $50
-    Equity:AdvancedRatio:Negimix                                                      $-50
+    Equity:AdvanceRatio:Negimix                                                       $-50
     Equity:Negimeister:Negimix                                                        $-50
     Assets:Paypal Pool:Negimix                                                        $100
