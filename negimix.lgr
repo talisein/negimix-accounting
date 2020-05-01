@@ -35,7 +35,7 @@ commodity ¥
     Budget:Negimix
 
 2020/04/23 Nagomix Campfire
-    Expenses:Negimix:Nagomix Campfire                                             ¥100,000
+    Expenses:Negimix:Nagomix Campfire:Venue Ticket                                ¥100,000
     Expenses:Negimix:Nagomix Campfire:S&H                                             ¥220
     Equity:MMD:Negimix                                                            -$970.20
 
@@ -79,6 +79,7 @@ commodity ¥
 2020/04/30 Advance Ratio
     ; 50% AdvanceRatio, 50% Negimeister. 100% good ideas.
     Equity:AdvancedRatio:Rosso                                                        $-50
+    Equity:Negimeister:Rosso                                                           $50
     Equity:AdvancedRatio:Negimix                                                      $-50
-    Assets:Paypal Pool:Negimix                                                         $50
-    Assets:Paypal Pool:Rosso                                                           $50
+    Equity:Negimeister:Negimix                                                        $-50
+    Assets:Paypal Pool:Negimix                                                        $100
