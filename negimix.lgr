@@ -79,7 +79,7 @@ commodity ¥
 2020/04/30 AdvanceRatio
     ; 50% AdvanceRatio, 50% Negimeister. 100% good ideas.
     Equity:AdvanceRatio:Rosso                                                         $-50
-    Equity:Negimeister:Rosso                                                           $50
     Equity:AdvanceRatio:Negimix                                                       $-50
+    Equity:Negimeister:Rosso                                                           $50
     Equity:Negimeister:Negimix                                                        $-50
     Assets:Paypal Pool:Negimix                                                        $100
