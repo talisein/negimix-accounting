@@ -87,3 +87,9 @@ commodity ¥
 2020/05/02 Flamehaze
     Equity:Flamehaze:Negimix                                                         $-100
     Assets:Paypal Pool:Negimix
+
+2021/03/29 Chi refund
+    Assets:Paypal Pool:Negimix                                                        -$50
+    Equity:chi:Negimix                                                                 $50
+    Pledge:Negimix:chi                                                              -¥5000
+    Budget:Negimix                                                                   ¥5000
