@@ -1,0 +1,13 @@
+"txns":{"list":[
+{"id":"1KG226513W8730737","campaign_id":"8owxIxPsXh","date":"2021-03-30T00:43:07.000Z","amount":50,"anonymous":true,"contributor_id":null,"withdraw":true,"net_amount":"50.00","gross_amount":"50.00"},
+{"id":"8JJ28802E08646150","campaign_id":"8owxIxPsXh","date":"2020-05-02T08:34:19.000Z","amount":100,"anonymous":false,"note":"FlameHaze","contributor_id":"FlameHaze","net_amount":"100.00","gross_amount":"100.00"},
+{"id":"3V590537UT676841Y","campaign_id":"8owxIxPsXh","date":"2020-04-30T23:00:48.000Z","amount":100,"anonymous":false,"note":"50% AdvanceRatio, 50% Negimeister.  100% good ideas. ","contributor_id":"AdvanceRatio","net_amount":"100.00","gross_amount":"100.00"},
+{"id":"6ME08525NT719670G","campaign_id":"8owxIxPsXh","date":"2020-04-30T22:28:49.000Z","amount":100,"anonymous":true,"note":"ephemient is confused","contributor_id":"ephemient","net_amount":"100.00","gross_amount":"100.00"},
+{"id":"7N840063PE7125809","campaign_id":"8owxIxPsXh","date":"2020-04-30T18:29:18.000Z","amount":670.05,"anonymous":true,"contributor_id":null,"withdraw":true,"net_amount":"670.05","gross_amount":"670.05"},
+{"id":"15V08833FP802011R","campaign_id":"8owxIxPsXh","date":"2020-04-30T13:48:20.000Z","amount":50,"anonymous":true,"note":"Oyasugumi by ephemient","contributor_id":"ephemient","net_amount":"50.00","gross_amount":"50.00"},
+{"id":"875625454J8157819","campaign_id":"8owxIxPsXh","date":"2020-04-24T07:42:01.000Z","amount":50,"anonymous":false,"note":"hope it works out","contributor_id":"chi","net_amount":"50.00","gross_amount":"50.00"},
+{"id":"3HM95196DN435894M","campaign_id":"8owxIxPsXh","date":"2020-04-24T02:30:56.000Z","amount":100,"anonymous":true,"note":"Merril","contributor_id":"Merril","net_amount":"100.00","gross_amount":"100.00"},
+{"id":"7VY324880Y028302N","campaign_id":"8owxIxPsXh","date":"2020-04-24T02:18:12.000Z","amount":300,"anonymous":false,"contributor_id":"Pengy","net_amount":"300.00","gross_amount":"300.00"},
+{"id":"81C11822U00049119","campaign_id":"8owxIxPsXh","date":"2020-04-24T02:09:25.000Z","amount":100,"anonymous":false,"note":"discord: Fjdjjero","contributor_id":"Fjdjjero","net_amount":"100.00","gross_amount":"100.00"},
+{"id":"9K891466YB3155316","campaign_id":"8owxIxPsXh","date":"2020-04-24T01:47:54.000Z","amount":250,"anonymous":false,"note":"ephemient","contributor_id":"ephemient","net_amount":"250.00","gross_amount":"250.00"}
+]}
