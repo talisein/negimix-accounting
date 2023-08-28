@@ -93,3 +93,11 @@ commodity ¥
     Equity:chi:Negimix                                                                 $50
     Pledge:Negimix:chi                                                              -¥5000
     Budget:Negimix                                                                   ¥5000
+
+2023/08/27 Redistribute budget to 1 event
+    Assets:Paypal Pool:Negimix
+    Assets:Paypal Pool:Rosso                                                       $329.95
+
+2023/08/27 Cake
+    Assets:Paypal Pool:Rosso
+    Expenses:Cakewith                                                            ¥20950 @@ $143.78

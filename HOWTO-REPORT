@@ -1,0 +1,2 @@
+ledger -f negimix.lgr -X ¥ bal -B Assets Equity expenses > current-report/real-balance-yen
+ledger -f negimix.lgr -X $ bal -B Assets Equity expenses > current-report/real-balance-usd
